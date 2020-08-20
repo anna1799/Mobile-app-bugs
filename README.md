@@ -100,7 +100,7 @@ I've tested a mobile application for keeping track of bowling player statistics.
  
  ### 12.  "Add League" and "Rename or delete league": there is a possibility to save leagues with the same names	
   
-  ![Image alt](https://github.com/anna1799/Mobile-app-screenshots/raw/master/same names.jpg)
+  ![Image alt](https://github.com/anna1799/Mobile-app-screenshots/raw/master/same_names.jpg)
   
  ### 13.	 "Rename or delete league": no validation
   
@@ -120,7 +120,7 @@ I've tested a mobile application for keeping track of bowling player statistics.
  
  ### 17. "Dashboard", "Side menu" and "League screen": long name of the league isn't truncated with 3 dots
   
-  ![Image alt](https://github.com/anna1799/Mobile-app-screenshots/raw/master/180.jpg)
+  ![Image alt](https://github.com/anna1799/Mobile-app-screenshots/raw/master/3_dots.jpg)
   
  ### 18.  The side menu opens when you tap the name of any screen
   
